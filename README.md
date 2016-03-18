@@ -1,6 +1,8 @@
 # Terminal Syntax Color for Atom
 (Unix) Terminal Syntax Color - Package for Atom
 
+Available on Atom! https://atom.io/packages/terminal-syntax-color
+
 # How to use
 
 Is simple, as you don't know that :v
