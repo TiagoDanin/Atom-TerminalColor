@@ -26,7 +26,7 @@ tc|No color|n|
 
 Suggestions and Support [New Issue](https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/issues/new)
 
-##LICENSE
+## LICENSE
 The MIT License [(MIT)](https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/blob/master/LICENSE)
 
 ---
