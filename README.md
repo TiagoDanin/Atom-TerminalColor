@@ -1,7 +1,7 @@
 # Atom-TerminalColor
 A auto-complet with colors for terminal(Bash) - Package for Atom
 
-Available on Atom! https://atom.io/packages/terminal-syntax-color
+Available on Atom! https://atom.io/packages/terminalcolor
 
 # How to use
 
