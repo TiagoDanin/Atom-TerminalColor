@@ -1,5 +1,5 @@
-# Terminal Syntax Color for Atom
-(Unix) Terminal Syntax Color - Package for Atom
+# Atom-TerminalColor
+A auto-complet with colors for terminal(Bash) - Package for Atom
 
 Available on Atom! https://atom.io/packages/terminal-syntax-color
 
@@ -24,10 +24,10 @@ tc|White|Y|
 tc|No color|n|
 
 
-Suggestions and Support [New Issue](https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/issues/new)
+Suggestions and Support [New Issue](https://github.com/TiagoDanin/Atom-TerminalColor/issues/new)
 
 ## LICENSE
-The MIT License [(MIT)](https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/blob/master/LICENSE)
+The MIT License [(MIT)](https://github.com/TiagoDanin/Atom-TerminalColor/blob/master/LICENSE)
 
 ---
 >Copyright (c) 2016 Tiago Danin

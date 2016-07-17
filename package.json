@@ -1,26 +1,24 @@
 {
-	"name": "Terminal-Syntax-Color",
-	"version": "0.1.0",
-	"private": false,
-	"author": {
-		"name": "TiagoDanin",
-		"email": "TiagoJDanin@outlook.com"
-	},
-	"description": "(Unix) Terminal Syntax Color - Package for Atom",
+	"name": "TerminalColor",
+	"version": "1.0.0",
+	"author": "TiagoDanin",
+	"description": "A auto-complet with colors for terminal(Bash)",
+	"keywords": [
+		"terminal",
+		"color",
+		"bash",
+		"shell",
+		"tiagodanin"
+	],
 	"engines": {
-		"atom": "*"
+		"atom": ">=1.2.0"
 	},
-	"homepage": "http://tiagodanin.github.io/Terminal-Syntax-Color-for-Atom",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom.git"
-	},
+	"homepage": "https://TiagoDanin.github.io/Atom-TerminalColor",
+	"repository": "https://github.com/TiagoDanin/Atom-TerminalColor",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/issues"
+		"url": "https://github.com/TiagoDanin/Atom-TerminalColor/issues"
 	},
-	"readme": "# Terminal Syntax Color for Atom\n(Unix) Terminal Syntax Color - Package for Atom\n# How to use\nIs simple, as you don't know that :v\nJust call by `tc[color][light]`\nList Colors\n\nSyntax | Color | Light|\n-------|-------|------|\ntc|Black|n|\ntc|Gray|n|\ntc|Red|Y|\ntc|Green|Y|\ntc|Yellom|Y|\ntc|Blue|Y|\ntc|Cyan|Y|\ntc|White|Y|\ntc|No color|n|\n\nSuggestions and Support [New Issue](https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/issues/new)\n##LICENSE\nThe MIT License [(MIT)](https://github.com/TiagoDanin/Terminal-Syntax-Color-for-Atom/blob/master/LICENSE)\n---\n>Copyright (c) 2016 Tiago Danin",
-	"readmeFilename": "README.md",
 	"dependencies": {},
 	"devDependencies": {}
 }
