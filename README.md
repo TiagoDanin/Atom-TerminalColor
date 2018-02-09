@@ -1,4 +1,4 @@
-# Atom-TerminalColor [![Greenkeeper badge](https://badges.greenkeeper.io/TiagoDanin/Atom-TerminalColor.svg)](https://greenkeeper.io/)
+# Atom-TerminalColor
 A auto-complet with colors for terminal(Bash) - Package for Atom
 
 Available on Atom! https://atom.io/packages/terminalcolor
